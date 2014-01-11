@@ -1,0 +1,1 @@
+FauxCoin. A new cryptocurrency.
